@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Marc92020.github.io, this random website I made
 
-You can use the [editor on GitHub](https://github.com/Marc92020/Marc92020.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+So yeah I was bored and I have been trying to make a githumb site for a bit so HeRe It Is ⁿᵒᵗ ᵗʰᵃᵗ ᵉˣᶜᶦᵗᶦⁿᵍ ᶦˢ ᶦᵗ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hmmmmmmmmmmmmmmm so what else can I put here???
 
-### Markdown
+### Me on Scratch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I also have a Scratch account where I usually hang around and code.
 
-```markdown
-Syntax highlighted code block
+I am not good at making games
 
-# Header 1
-## Header 2
-### Header 3
+### What do I make on Scratch?
 
-- Bulleted
-- List
+Well, I mostly make animations or help out with game collabs. I also sometimes do art and I like to RuIn ThInGs sometimes.
 
-1. Numbered
-2. List
+I also know how to make bass boosted songs on Scratch ʷᵃᶦᵗ ʷʰʸ ᵈᶦᵈ ᶦ ˢᵃʸ ᵗʰᵃᵗ
 
-**Bold** and _Italic_ and `Code` text
+### What else do I hang on?
 
-[Link](url) and ![Image](src)
-```
+Well, I have s 2DS XL, A Nintendo Switch, a Wii U and a Wii but the wii is at my grandparents house. I will put my Nintendo Switch code somewhere on Scratch.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### What other pages of this website do I have?
 
-### Jekyll Themes
+Well, I have one odd one that is pointless. It's supposed to load my random extension. [Honestly, it isn't even coded properly](https://marc92020.github.io/random-scratch-extension/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marc92020/Marc92020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Will I add more to this website any time soon?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**_YES_**
