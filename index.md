@@ -24,6 +24,8 @@ Well, I have s 2DS XL, A Nintendo Switch, a Wii U and a Wii but the wii is at my
 
 Well, I have one odd one that is pointless. It's supposed to load my random extension. [Honestly, it isn't even coded properly](https://marc92020.github.io/random-scratch-extension/)
 
+And I have one with my extras. [It's called extras lol](https://marc92020.github.io/extra-website-stuff/)
+
 ### Will I add more to this website any time soon?
 
 **_YES_**
