@@ -1,6 +1,6 @@
-## Welcome to Marc92020.github.io, this random website I made
+## Marc92020.github.io, this random website.
 
-So yeah I was bored and I have been trying to make a githumb site for a bit so HeRe It Is ⁿᵒᵗ ᵗʰᵃᵗ ᵉˣᶜᶦᵗᶦⁿᵍ ᶦˢ ᶦᵗ
+So yeah I was bored and I have been trying to make a github site for a bit so HeRe It Is ⁿᵒᵗ ᵗʰᵃᵗ ᵉˣᶜᶦᵗᶦⁿᵍ ᶦˢ ᶦᵗ
 
 hmmmmmmmmmmmmmmm so what else can I put here???
 
@@ -18,7 +18,7 @@ I also know how to make bass boosted songs on Scratch ʷᵃᶦᵗ ʷʰʸ ᵈᶦ�
 
 ### What else do I hang on?
 
-Well, I have s 2DS XL, A Nintendo Switch, a Wii U and a Wii but the wii is at my grandparents house. I will put my Nintendo Switch code somewhere on Scratch.
+Well, I have a 2DS XL, A Nintendo Switch, a Wii U and a Wii but the wii is at my grandparents house. I will put my Nintendo Switch code somewhere on Scratch.
 
 ### What other pages of this website do I have?
 
