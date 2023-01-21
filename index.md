@@ -1,3 +1,2 @@
-## goofy website
-the og has been deleted
-i am proud of myself
+# the end of an era
+ive been permabanned from scratch
