@@ -1,2 +1,2 @@
-# Marc92020.github.io
-a random website I made
+# a
+go check it out instead of being here
