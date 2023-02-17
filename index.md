@@ -1,5 +1,7 @@
 # welcome
 welcome to my website i guess
+## other locations
+i am other places too. go check them out [here](https://marc92020.github.io/super-duper-journey)
 ## cooler things
 this website is boring so here are some actually decent things you should check out:
 
